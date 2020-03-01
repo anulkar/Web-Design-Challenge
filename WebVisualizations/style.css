@@ -1,0 +1,46 @@
+/* Body */
+body
+    {
+        background-color: lightgray; 
+    }
+
+a
+    {
+        color: #6D8092;
+    }
+
+.navigation-bar .navbar-brand
+    {
+        /* color: white;  */
+        /* margin-left: 20px; */
+        padding: inherit; 
+        font-size: 28px;
+        font-weight: bold; 
+        background-color: teal;
+    }
+
+/* Customize the BootStrap navbar color and font size */ 
+.navbar
+    {
+        font-size: 20px; 
+    }
+
+.nav-link:hover
+    {
+        background-color: gray;
+    }
+
+.navigation-bar .navbar-brand:hover
+    {
+        color: lightgray;
+    }
+
+.dropdown-item
+    {
+        color: black; 
+    }
+
+.dropdown-item:hover
+    {
+        color:teal; 
+    }
