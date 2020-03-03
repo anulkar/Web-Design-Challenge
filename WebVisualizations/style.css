@@ -7,7 +7,7 @@ a {
     color: #6D8092;
 }
 
-h3, h4 {
+h3, h4, h5 {
     color: teal;
     font-weight: bold;
 }
@@ -33,6 +33,7 @@ h3, h4 {
 .thumbnail {
     width: 100%;
     height: 100%;
+    padding-bottom: 45px;
 }
 
 .thumbnail:active, .thumbnail:hover {
@@ -41,8 +42,7 @@ h3, h4 {
 }
 
 #visualizations {
-   padding-top: 15px;
-   padding-bottom: 50px;
+   padding-top: 20px;
 }
 
 .box {
