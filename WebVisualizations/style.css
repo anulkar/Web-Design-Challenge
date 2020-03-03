@@ -1,46 +1,75 @@
 /* Body */
-body
-    {
-        background-color: lightgray; 
-    }
+body {
+    background-color: lightgray; 
+}
 
-a
-    {
-        color: #6D8092;
-    }
+a {
+    color: #6D8092;
+}
 
-.navigation-bar .navbar-brand
-    {
-        /* color: white;  */
-        /* margin-left: 20px; */
-        padding: inherit; 
-        font-size: 28px;
-        font-weight: bold; 
-        background-color: teal;
-    }
+h3, h4 {
+    color: teal;
+    font-weight: bold;
+}
+.navigation-bar .navbar-brand {
+    padding: inherit; 
+    font-size: 28px;
+    font-weight: bold; 
+    background-color: teal;
+}
+
+.summaryImage {
+    float: left;
+    width: 60%;
+    height: 60%;
+}
+
+.maxTempImage {
+    float: bottom;
+    width: 100%;
+    height: 100%;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 100%;
+}
+
+.thumbnail:active, .thumbnail:hover {
+    border-color: teal;
+    border-style: solid;
+}
+
+#visualizations {
+   padding-top: 15px;
+   padding-bottom: 50px;
+}
+
+.box {
+    padding: 20px
+}
+
+.white {
+    background: white;
+}
 
 /* Customize the BootStrap navbar color and font size */ 
-.navbar
-    {
-        font-size: 20px; 
-    }
+.navbar{
+    font-size: 20px; 
+}
 
-.nav-link:hover
-    {
-        background-color: gray;
-    }
+.nav-link:hover{
+    background-color: gray;
+}
 
-.navigation-bar .navbar-brand:hover
-    {
-        color: lightgray;
-    }
+.navigation-bar .navbar-brand:hover {
+    color: lightgray;
+}
 
-.dropdown-item
-    {
-        color: black; 
-    }
+.dropdown-item {
+    color: black; 
+}
 
-.dropdown-item:hover
-    {
-        color:teal; 
-    }
+.dropdown-item:hover{
+    color:teal; 
+}
