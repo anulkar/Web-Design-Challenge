@@ -1,2 +1,1 @@
-# Web-Design-Challenge
-Data Science Activity: Web Visualization Dashboard (Latitude)
+# Data Science Activity: Web Visualization Dashboard (Latitude)
